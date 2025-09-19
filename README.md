@@ -17,9 +17,7 @@ This is my **Instagram Clone** project built with **Flutter** and **GetX** state
 
 ## 📱 Screenshots
 <table>
-<tr>
-<td><img src="assets/screenShot/sh1.png" width="500" height="500"/></td>
-</tr>
+<img src="assets/screenShot/sh1.png" width="500" height="500"/>
 
 <tr>
 <td><img src="assets/screenShot/sh2.png" width="200"/></td>
