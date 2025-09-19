@@ -1,16 +1,55 @@
-# instagram_clone
+# Instagram Clone (Flutter + GetX)
 
-A new Flutter project.
+This is my **Instagram Clone** project built with **Flutter** and **GetX** state management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Login / Signup 
+- Home Feed & Stories
+- Upload Post with Image
+- Profile Page
+- Camera Integration
+- Dark & Light Mode
+- Like / Comment / Share Posts
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### App View
+<img src="assets/screenShot/sh1.png"/>
+
+### Splash Screen
+<img src="assets/screenShot/sh2.png"/> 
+
+### First Screen
+<img src="assets/screenShot/sh3.png"/> 
+
+### 🔹 Login & Signup
+<img src="assets/screenShot/sh4.png"/> 
+<img src="assets/screenShot/sh5.png"/> 
+<img src="assets/screenShot/sh6.png"/> 
+<img src="assets/screenShot/sh7.png"/> 
+
+### 🔹 Home & Search & Live & Like & Profile 
+<img src="assets/screenShot/sh8.png"/> 
+<img src="assets/screenShot/sh9.png"/> 
+<img src="assets/screenShot/sh15.png"/> 
+<img src="assets/screenShot/sh16.png"/> 
+<img src="assets/screenShot/sh10.png"/> 
+<img src="assets/screenShot/sh11.png"/> 
+<img src="assets/screenShot/sh12.png"/> 
+<img src="assets/screenShot/sh13.png"/> 
+<img src="assets/screenShot/sh14.png"/> 
+
+---
+
+## 📂 Getting Started
+
+This project is a starting point for a Flutter application.  
+If you want to run it locally, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Prinshuls/instagram_clone.git
