@@ -16,32 +16,55 @@ This is my **Instagram Clone** project built with **Flutter** and **GetX** state
 ---
 
 ## 📱 Screenshots
+<table>
+<tr>
+<td><img src="assets/screenShot/sh1.png" width="200"/></td>
+<td></td>
+<td></td>
+</tr>
 
-### App View
-<img src="assets/screenShot/sh1.png" width="200"/>
+<tr>
+<td><img src="assets/screenShot/sh2.png" width="200"/></td> 
+<td></td>
+<td></td>
+</tr>
 
-### Splash Screen
-<img src="assets/screenShot/sh2.png" width="200"/> 
+<tr>
+<td><img src="assets/screenShot/sh3.png" width="200"/></td> 
+<td></td>
+<td></td>
+</tr>
 
-### First Screen
-<img src="assets/screenShot/sh3.png" width="200"/> 
+<tr>
+<td><img src="assets/screenShot/sh4.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh5.png" width="200"/></td>
+<td></td>
+</tr>
 
-### 🔹 Login & Signup
-<img src="assets/screenShot/sh4.png" width="200"/> 
-<img src="assets/screenShot/sh5.png" width="200"/> 
-<img src="assets/screenShot/sh6.png" width="200"/> 
-<img src="assets/screenShot/sh7.png" width="200"/> 
+<tr>
+<td><img src="assets/screenShot/sh6.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh7.png" width="200"/></td>
+<td></td>
+</tr>
 
-### 🔹 Home & Search & Live & Like & Profile 
-<img src="assets/screenShot/sh8.png" width="200"/> 
-<img src="assets/screenShot/sh9.png" width="200"/> 
-<img src="assets/screenShot/sh15.png" width="200"/> 
-<img src="assets/screenShot/sh16.png" width="200"/> 
-<img src="assets/screenShot/sh10.png" width="200"/> 
-<img src="assets/screenShot/sh11.png" width="200"/> 
-<img src="assets/screenShot/sh12.png" width="200"/> 
-<img src="assets/screenShot/sh13.png" width="200"/> 
-<img src="assets/screenShot/sh14.png" width="200"/> 
+<tr>
+<td><img src="assets/screenShot/sh8.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh9.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh15.png" width="200"/></td>
+</tr>
+
+<tr>
+<td><img src="assets/screenShot/sh16.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh10.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh11.png" width="200"/></td> 
+</tr>
+
+<tr>
+<td><img src="assets/screenShot/sh12.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh13.png" width="200"/></td> 
+<td><img src="assets/screenShot/sh14.png" width="200"/></td> 
+</tr>
+</table>
 
 ---
 
