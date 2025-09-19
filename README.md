@@ -26,8 +26,8 @@ This is my **Instagram Clone** project built with **Flutter** and **GetX** state
 <img src="assets/screenShot/sh3.png" width="200"/>
 
 <tr>
-<td><img src="assets/screenShot/sh4.png" width="200"/></td> 
-<td><img src="assets/screenShot/sh5.png" width="200"/></td>
+<img src="assets/screenShot/sh4.png" width="200"/> 
+<img src="assets/screenShot/sh5.png" width="200"/>
 </tr>
 
 <tr>
