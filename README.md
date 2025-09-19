@@ -19,32 +19,24 @@ This is my **Instagram Clone** project built with **Flutter** and **GetX** state
 <table>
 <tr>
 <td><img src="assets/screenShot/sh1.png" width="200"/></td>
-<td></td>
-<td></td>
 </tr>
 
 <tr>
-<td><img src="assets/screenShot/sh2.png" width="200"/></td> 
-<td></td>
-<td></td>
+<td><img src="assets/screenShot/sh2.png" width="200"/></td>
 </tr>
 
 <tr>
-<td><img src="assets/screenShot/sh3.png" width="200"/></td> 
-<td></td>
-<td></td>
+<td><img src="assets/screenShot/sh3.png" width="200"/></td>
 </tr>
 
 <tr>
 <td><img src="assets/screenShot/sh4.png" width="200"/></td> 
 <td><img src="assets/screenShot/sh5.png" width="200"/></td>
-<td></td>
 </tr>
 
 <tr>
 <td><img src="assets/screenShot/sh6.png" width="200"/></td> 
 <td><img src="assets/screenShot/sh7.png" width="200"/></td>
-<td></td>
 </tr>
 
 <tr>
